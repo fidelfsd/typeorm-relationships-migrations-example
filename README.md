@@ -4,6 +4,6 @@
 
 
 <p align="center">
-  <img alt="Github top language" src="database.png">
+  <img alt="Database 1:N and N:N" src="database.png">
 </p>
 
